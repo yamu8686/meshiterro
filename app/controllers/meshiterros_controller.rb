@@ -1,6 +1,5 @@
 class MeshiterrosController < ApplicationController
   def top
-
   end
 
   def new
@@ -14,4 +13,8 @@ class MeshiterrosController < ApplicationController
 
   def edit
   end
+
+  def about
+  end
+
 end
